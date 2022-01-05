@@ -145,7 +145,8 @@ body {
   position: relative;
   top: 0;
   left: 0;
-  border: 0px red solid;
+  border: 22px #333333 solid;
+  border-radius: 25px;
 }
 .video2 {
   position: absolute;
