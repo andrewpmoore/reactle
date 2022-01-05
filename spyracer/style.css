@@ -134,6 +134,27 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+
+
+.videoParent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.video1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 0px red solid;
+}
+.video2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 0px green solid;
+}
+
+
 /*--------------------------------------------------------------
 3.0 TYPOGRAPHY
 --------------------------------------------------------------*/
